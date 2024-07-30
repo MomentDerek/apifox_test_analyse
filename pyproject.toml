@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "apifox-test-analyse"
+version = "0.1.0"
+description = ""
+authors = ["Moment <momincong@foxmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.32.3"
+jsonpath_ng = "^1.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

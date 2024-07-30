@@ -1,0 +1,1 @@
+apifox_url_list = ["https://api.apifox.com/api/v1/projects/4085369/api-test/ci-config/445647/detail?token=xfVjXCK_Of3TZSMXn9S_5v --upload-report --timeout-request 500"]
